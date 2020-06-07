@@ -1,0 +1,10 @@
+<svg id="podcast" xmlns="http://www.w3.org/2000/svg" width="10" height="16" viewBox="0 0 10 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="podcast-path" data-name="podcast" class="cls-1" d="M5,11A3,3,0,0,0,8,8V3A3,3,0,1,0,2,3V8A3,3,0,0,0,5,11Zm1,2H4v2H1v1H9V15H6Zm4-5a8.8,8.8,0,0,0-.05-1H9c0,2.21-1.79,5-4,5S1,9.21,1,7H.05A8.86,8.86,0,0,0,0,8,5,5,0,1,0,10,8Z" />
+</svg>
